@@ -10,7 +10,7 @@ Different types of charts are used to visualize trends, comparisons, and distrib
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Plotly
 - Jupyter Notebook
 
 ---
@@ -69,7 +69,3 @@ Different types of charts are used to visualize trends, comparisons, and distrib
 ### 8. Sales to Profit Ratio Analysis
 - Calculated sales-to-profit ratio
 - Analyzed business efficiency and profitability across different dimensions
-
----
-
-## Project Structure
